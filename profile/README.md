@@ -6,7 +6,7 @@ Melhorar o processo de manutenção de aeronaves implementando o modelo de manut
 
 ## 🎯 O objetivo:
 
-Análise de sensores da Aeronave Embraer E2 para realização de Manutenção Preditiva levando à redução de consumo de combustível$$$$$
+Análise de sensores da Aeronave Embraer E2 para realização de Manutenção Preditiva levando à redução de consumo de combustível
 
 ## 💻  Projeto de sistema de manutenção preditiva:
 
