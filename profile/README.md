@@ -11,19 +11,19 @@ Análise de sensores da Aeronave Embraer E2 para realização de Manutenção Pr
 ## 💻  Projeto de sistema de manutenção preditiva:
 
 - Grupo 1 - Blue SkAI
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo1
 
 - Grupo 2 - flAI
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo2
 
 - Grupo 3 - Blue Bird
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo3
 
 - Grupo 4 - Artificial Air
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo4
 
 - Grupo 5 - Bleedrunner 
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo5
 
 - Grupo 6 - AeroGuardians
-  - Link do repositório: https://github.com/2023M7T2-Inteli/grupo6
+  - Link do repositório: https://github.com/InteliProjects/2023M7T2-Inteli-grupo6
